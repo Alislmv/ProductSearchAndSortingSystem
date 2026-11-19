@@ -18,5 +18,60 @@
         "id": 4,
         "name": "Monitor",
         "price": 650
+    },
+    {
+        "id": 5,
+        "name": "Headphones",
+        "price": 90
+    },
+    {
+        "id": 6,
+        "name": "Webcam",
+        "price": 180
+    },
+    {
+        "id": 7,
+        "name": "Printer",
+        "price": 420
+    },
+    {
+        "id": 8,
+        "name": "Tablet",
+        "price": 1100
+    },
+    {
+        "id": 9,
+        "name": "Smartphone",
+        "price": 1850
+    },
+    {
+        "id": 10,
+        "name": "USB Drive",
+        "price": 25
+    },
+    {
+        "id": 11,
+        "name": "External Hard Drive",
+        "price": 210
+    },
+    {
+        "id": 12,
+        "name": "Speaker",
+        "price": 145
+    },
+    {
+        "id": 13,
+        "name": "Router",
+        "price": 160
+    },
+    {
+        "id": 14,
+        "name": "Microphone",
+        "price": 230
+    },
+    {
+        "id": 15,
+        "name": "Gaming Chair",
+        "price": 780
     }
 ]
